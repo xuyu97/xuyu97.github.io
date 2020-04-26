@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on XuYu&#39;s Blog</title>
+        <link>https://xuyu97.github.io/posts/</link>
+        <description>Recent content in Posts on XuYu&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 26 Apr 2020 18:44:37 +0800</lastBuildDate>
+        <atom:link href="https://xuyu97.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My_first_blog</title>
+            <link>https://xuyu97.github.io/posts/2020/04/my_first_blog/</link>
+            <pubDate>Sun, 26 Apr 2020 18:44:37 +0800</pubDate>
+            
+            <guid>https://xuyu97.github.io/posts/2020/04/my_first_blog/</guid>
+            <description>Welcom to my first blog!
+This is the place where I records my own study experience during my PhD journey.</description>
+            <content type="html"><![CDATA[<p>Welcom to my first blog!</p>
+<p>This is the place where I records my own study experience during my PhD journey.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
